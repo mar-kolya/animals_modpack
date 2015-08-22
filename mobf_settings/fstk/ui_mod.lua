@@ -200,4 +200,4 @@ end
 --------------------------------------------------------------------------------
 
 minetest.register_on_player_receive_fields(handle_buttons)
-minetest.register_on_leaveplayer(player)
+minetest.register_on_leaveplayer(player_leave)
